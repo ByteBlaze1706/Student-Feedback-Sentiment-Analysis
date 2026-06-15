@@ -63,8 +63,7 @@ The objective is to convert unstructured feedback into actionable insights that 
 | Development Environment | Jupyter Notebook         |
 | Data Analysis           | Pandas                   |
 | Visualization           | Matplotlib, Seaborn      |
-| NLP                     | VADER Sentiment Analysis |
-| Text Visualization      | WordCloud                |
+
 
 ---
 
